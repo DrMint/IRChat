@@ -2,7 +2,7 @@
 
 ## Introduction
 
-L’IRChat est un logiciel de communication, basé sur le protocole IRC (RFC1459). Le programme est composé de deux fichiers sources : Le serveur et le client (non interchangeable). Les utilisateurs peuvent discuter sur le canal principal, des canaux secondaires, ou même plusieurs à la fois. Ils peuvent également échanger des messages privés à destination d’un ou plusieurs utilisateurs. Beaucoup d’autres commandes sont à leur disposition (description détaillée dans la partie fonctionnalité). L’interface graphique est très confortable pour un programme fonctionnant dans le terminal. Notez d’ailleurs que seule les terminaux type ANSI / VT100 sont compatibles avec le système graphique utilisé. Pour cette raison, les utilisateurs Windows seront obligés d’utiliser un terminal axillaire (« CMDer » par exemple, inclus dans les fichiers sources de IRChat).
+L’IRChat est un logiciel de communication, basé sur le protocole IRC (RFC1459). Le programme est composé de deux fichiers sources : Le serveur et le client (non interchangeable). Les utilisateurs peuvent discuter sur le canal principal, des canaux secondaires, ou même plusieurs à la fois. Ils peuvent également échanger des messages privés à destination d’un ou plusieurs utilisateurs. Beaucoup d’autres commandes sont à leur disposition (description détaillée dans la partie fonctionnalité). L’interface graphique est très confortable pour un programme fonctionnant dans le terminal. Notez d’ailleurs que seule les terminaux type ANSI / VT100 sont compatibles avec le système graphique utilisé. Pour cette raison, les utilisateurs Windows seront obligés d’utiliser un terminal axillaire (« CMDer » par exemple).
 
 ## Protocole réseau
 
