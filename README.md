@@ -124,7 +124,7 @@ Mais la dernière raison est vraiment la plus importante. Grâce à la séparati
  
  ![](https://www.r-entries.com/etuliens/img/IRC/image15.png)
  
-Ci-dessus, on peut voir le serveur accepter des connections, puis une erreur dans Thread-2, puis à nouveau d’autre utilisateur, quittant ou revenant sur le serveur. Si l’utilisateur ayant fait planter son Thread correspondant n’aura qu’à quitter le programme et le relancé pour retrouver une nouvelle connexion sur un nouveau thread. 
+Ci-dessus, on peut voir le serveur accepter des connections, puis une erreur dans Thread-2, puis à nouveau d’autre utilisateur, quittant ou revenant sur le serveur. Le service est donc toujours disponible malgré l'erreur. L’utilisateur ayant fait planter son Thread n’aura qu’à quitter le programme et le relancer pour retrouver une nouvelle connexion sur un nouveau thread. 
  
  
 ### La console Server 
